@@ -95,3 +95,28 @@ And the customer says, "I don't know. What's good?"
 And the machine replies, "Hmmm, (<- a human like interjection, very important), the cherry cola's pretty popular."
 
 Once again, the NCM is a *layer* that goes on top of any computer that can run JavaScript, which then proceed to do the same things, except that it passes the turing test.
+
+Language is Core to Everything
+------------
+The reason why we're even having this discussion is because human beings are arguably the only creature on Earth that has developed language. It is arguably *why* we are so intelligent.
+
+In principle, Lisa, just like a human being, is born language-agnostic. She learns language the same way a human does, by processing billions of small pieces of data, other people speaking that language.
+
+For example, let's say you download the entire series of events of Fight Club into Lisa.
+
+Does she have to know what a fist is to know it hurts? No.
+
+Consider this sentence,
+
+The Zarblax crushed my house and ate three of my cows.
+
+Now, you have no idea what a Zarblax is, because I just invented it, but you already know that it's big and dangerous. Why?
+
+- In your memory, you have thousands of stories that correlate (crushes houses -> must be big)
+- And, likewise, (eats three cows -> am I next?)
+
+You might even be able to picture a Zarblax. All big and purple and scaly!
+
+As mentioned above, Lisa learns language the same way she learns logic and emotion, through mass input of memories.
+
+Therefore, what is required is a "ten years of public school english" language pack, which has the effect of implanting Lisa with thousands of memories about the meanings of the words "what", "why", "when" and so forth.
